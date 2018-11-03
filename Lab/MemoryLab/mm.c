@@ -1,4 +1,4 @@
-/*
+
  * mm-naive.c - The fastest, least memory-efficient malloc package.
  *
  * In this naive approach, a block is allocated by simply incrementing
@@ -24,11 +24,11 @@
  ********************************************************/
 team_t team = {
   /* Team name : Your student ID */
-  "",
+  "2016-10760",
   /* Your full name */
-  "",
+  "Park Seungil",
   /* Your student ID, again  */
-  "",
+  "2016-10760",
   /* leave blank */
   "",
   /* leave blank */
